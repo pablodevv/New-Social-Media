@@ -176,7 +176,7 @@ Signed Pablo Eduardo
          </label>
          <ul>
 
-            <li><a href="shop">HOME</a></li>
+            <li><a href="http://localhost:8080/">HOME</a></li>
             <li><a href="faq">FAQ</a></li>
             <li><a href="contact">CONTACT</a></li>
             <li><a href="login.php"><i class="fas fa-user-circle"></i></a></li>
@@ -231,7 +231,7 @@ Signed Pablo Eduardo
 
 
         <br><br><br><br>
-        <a class="a-line" href="shop">Access now <i class="fas fa-chevron-right"></i></a>
+        <a class="a-line" href="http://localhost:8080/">Access now <i class="fas fa-chevron-right"></i></a>
         <br><br>
       </section>
         <h3 class="promo">100% free.</h3>
@@ -245,7 +245,7 @@ Signed Pablo Eduardo
     <br><br>
    <h1>The Red Heart</h1>
    <p>Because we love you.</p>
-   <a class="a-line" href="shop">Access now <i class="fas fa-chevron-right"></i></a>
+   <a class="a-line" href="http://localhost:8080/">Access now <i class="fas fa-chevron-right"></i></a>
     <br><br>
   </div>
 
